@@ -16,7 +16,6 @@
 - Completed ledger entries on a short schedule with nearly 100% accuracy.
 - Compiled financial reports pertaining to cash receipts expenditures and profit and los
 - Managed the preparation and submission of all payroll tax returns, resulting in a 100% compliance rate with federal, state, and local tax laws.
-- 
 
 ## Projects
 ###
