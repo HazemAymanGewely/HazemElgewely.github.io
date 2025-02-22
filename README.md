@@ -1,42 +1,107 @@
-# Hazem Elgewely - Data Analyst
-
-##About
-Hi, I'm Hazem! I have a background in business administration with a focus on management and accounting, but my true passion lies in data analysis. Over time, I transitioned into the field, building a solid foundation in Python, SQL, and exploratory data analysis.
+# Hazem Elgewely - Data Analyst Portfolio
+## About
+Hi, Hi, I'm Hazem! I have a background in business administration with a focus on management and accounting, but my true passion lies in data analysis. Over time, I transitioned into the field, building a solid foundation in Python, SQL, and exploratory data analysis.
 
 I enjoy working with data—cleaning, organizing, and uncovering patterns to extract meaningful insights. My current focus is on strengthening my skills in statistics, data visualization, and SQL to become a proficient data analyst.
 
 In my free time, I explore more advanced topics and books about data science to deepen my understanding and improve my technical skills. I'm always eager to learn and grow, and I look forward to contributing to real-world projects where data can drive impactful decisions.
 
-My CV in [pdf]link available soon
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+My CV in [pdf](https://github.com/HazemAymanGewely/HazemElgewely.github.io/blob/main/Hazem_Ayman_Elgewely_Resume.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
 - [About](https://github.com/HazemAymanGewely/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/HazemAymanGewely/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [Analyzing Crime Data in Chicago – Integrating socioeconomic indicators, public school performance, and crime reports to uncover patterns and correlations in crime trends across Chicago’s community areas.](link available soon)
 
 
-#### Technical Skills: Python, SQL, Excel, Tableau, Power BI
+- [Education](https://github.com/HazemAymanGewely/Data-Analysis-Portfolio/blob/main/README.md#education)  
+- [Certificates](https://github.com/HazemAymanGewely/Data-Analysis-Portfolio/blob/main/README.md#certificates)
+- [Contact](https://github.com/HazemAymanGewely/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+## Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### Integrating socioeconomic indicators, public school performance, and crime reports to uncover patterns and correlations in crime trends across Chicago’s community areas.
+**Code:** [`.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+
+**Goal:** To uncover patterns and correlations in crime trends across Chicago’s community areas.
+
+**Description:** The project focused on analyzing 3 datasets of crimes reported between 2002 and 2025. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+
+**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+
+**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+
+### Tech Store Sales Analysis
+
+**Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
+
+**Code:** [`Tech Store Sales Analysis.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
+
+**Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
+
+**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
+
+**Technology:** Python, Pandas, Matplotlib.
+
+**Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
+
+
+
+### Nashville Housing Data Cleaning
+**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
+
+**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
+
+
+**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
+
+**Technology:** SQL Server
+
+
+### Covid 19 Data Exploration
+**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
+
+**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+
+**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+**Technology:** SQL Server
+
+
+
+### Legendary Pokémon Analysis
+
+**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
+
+**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
+
+**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
+
+**Skills:** data cleaning, data analysis, data visualization.
+
+**Technology:** Tidyverse 
+
+
+
+
 
 ## Education
-- B.S., Business Administration | The Egyptian E-learning University  (Jul 2023)
+B.S., Business Administration | The Egyptian E-learning University (Jul 2023)
+Bachelor's degree, Science of Business Administration
+2019 - 2023
 
+## Certificates
+Skills are shown via actual work done, but sharing some certificates might give a litte more credibility. Here's a list of the ones I have:
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/JKWGSZ2DUUG2 (Jun 2024) (Coursera - Google)
+- [Power BI](https://www.coursera.org/account/accomplishments/verify/UPBB3RRDV47Q) (Jan 2025) (Coursera - Microsoft)
+- [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/verify/23XB4KMW0QMG) (Jan 2025) (Coursera - IBM)
 
-
-## Work Experience
-**General Accountant @ NISCO Construction (_July 2024 - Present_)**
-- Analyzed monthly balance sheet accounts for corporate reporting.
-- Monthly closing and trial balance.
-- Gathered, collected, cleaned, manipulated and analyzed all historical employee and labour workers data.
-- Review financial statements and audit documents to uncover variances.
-- Create accurate invoices, send them out, and ensure the company receives payment in a timely manner.
-- Prepare annual federal state and local tax returns for both individuals and businesses.
-- Reduced entry input time by 20% and decreased errors by 30%.
-- Completed ledger entries on a short schedule with nearly 100% accuracy.
-- Compiled financial reports pertaining to cash receipts expenditures and profit and loss.
-- Managed the preparation and submission of all payroll tax returns, resulting in a 100% compliance rate with federal, state, and local tax laws.
-
-## Projects
-### Waze User Churn prediction model
+## Contacts
+- LinkedIn: [@hazem-elgewely](linkedin.com/in/hazem-elgewely-9150472a6)
+- Email: Hazemayman262@gmail.com
