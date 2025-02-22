@@ -29,7 +29,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To uncover patterns and correlations in crime trends across Chicago’s community areas.
 
-**Description:** The project focused on analyzing 3 datasets of crimes reported between 2002 and 2025. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+**Description:** The project focused on analyzing 3 datasets of crimes reported in Chicago, US between 2002 and 2025. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
 
 **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
