@@ -54,7 +54,7 @@ Bachelor's degree, Science of Business Administration
 
 ## Certificates
 Skills are shown via actual work done, but sharing some certificates might give a litte more credibility. Here's a list of the ones I have:
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/JKWGSZ2DUUG2 (Jun 2024) (Coursera - Google)
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/JKWGSZ2DUUG2) (Jun 2024) (Coursera - Google)
 - [Power BI](https://www.coursera.org/account/accomplishments/verify/UPBB3RRDV47Q) (Jan 2025) (Coursera - Microsoft)
 - [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/verify/23XB4KMW0QMG) (Jan 2025) (Coursera - IBM)
 
