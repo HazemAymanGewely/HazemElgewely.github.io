@@ -7,7 +7,7 @@ I enjoy working with data—cleaning, organizing, and uncovering patterns to ext
 In my free time, I explore more advanced topics and books about data science to deepen my understanding and improve my technical skills. I'm always eager to learn and grow, and I look forward to contributing to real-world projects where data can drive impactful decisions.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
-My CV in [pdf](https://github.com/HazemAymanGewely/HazemElgewely.github.io/blob/main/Hazem_Ayman_Elgewely_Resume.pdf).
+My CV in [pdf](Hazem_Ayman_Elgewely_2025.pdf).
 
 
 ## Table of Contents
