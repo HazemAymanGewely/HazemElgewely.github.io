@@ -28,7 +28,16 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To uncover patterns and correlations in crime trends across Chicago’s community areas.
 
-**Description:** This project focuses on analyzing three datasets containing crime reports from Chicago, U.S., spanning from 2002 to 2025. The datasets include details such as crime types, locations, arrest status, crime type, area name and number, hardship index, socio economic factors, schools and other relevant factors. The analysis involved loading, cleaning, and preprocessing the data, followed by exploratory data analysis (EDA) to identify crime trends, geographic distribution, and seasonal patterns. Additionally, the project examined correlations between different crime factors and implemented Pearson’s correlation statistical analysis to uncover significant relationships.
+**Description:** This project aims to analyze the relationship between socioeconomic conditions, school performance, and crime rates across different community areas in Chicago. By merging datasets on socioeconomic indicators, public school performance, and reported crime incidents, the goal is to identify key patterns and correlations that may provide insights into:
+
+How economic hardship and unemployment impact crime rates.
+
+The potential link between school performance and neighborhood crime levels.
+
+The influence of socioeconomic factors on educational outcomes.
+
+
+Through data visualization, statistical analysis, and geospatial mapping, this project seeks to uncover meaningful trends that could help policymakers, educators, and law enforcement better understand and address the challenges facing different communities in Chicago.
 
 **Skills:** data cleaning, data analysis, correlation matrices, data visualization.
 
